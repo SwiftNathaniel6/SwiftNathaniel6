@@ -1,0 +1,7 @@
+echo "# SwiftNathaniel6" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SwiftNathaniel6/SwiftNathaniel6.git
+git push -u origin main
